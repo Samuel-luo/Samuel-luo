@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Samuel-luo&show_icons=true&icon_color=1E80FF&text_color=fff&bg_color=3b3b3b&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Samuel-luo&show_icons=true&icon_color=1E80FF&text_color=fff&bg_color=3b3b3b" />
 
 ### 小罗在路上
 
