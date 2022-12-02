@@ -1,3 +1,7 @@
-# 需要成长
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Samuel-luo&show_icons=true&icon_color=1E80FF&text_color=fff&bg_color=3b3b3b&hide_title=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Samuel-luo&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+### 小罗在路上
+
+不断成长中，欢迎交流学习，本人比较随和
+
+Email：samuel_lsn@foxmail.com
